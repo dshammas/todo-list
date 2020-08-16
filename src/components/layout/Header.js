@@ -5,7 +5,7 @@ function Header() {
     return (
         <div>
             <header style={headerStyle}>
-                <h1>BrainStorming</h1>
+                <h1>DS BrainStorming</h1>
                 <Link style={linkStyle} to="/">Home</Link> | {' '}
                 <Link style={linkStyle} to="/about">About</Link>
             </header>
